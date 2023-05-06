@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com.ar/url?sa=i&url=https%3A%2F%2Frapidapi.com%2Fblog%2Fgiphy-api-profile-make-your-project-more-fun-with-gifs%2F&psig=AOvVaw2qiVOAPbEA-jk_tkVdQtJu&ust=1683494173340000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCSqtLO4f4CFQAAAAAdAAAAABAE)" width="100"/>
+  <img src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm seabeach11</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
