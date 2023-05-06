@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div>
   <img src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm seabeach11</h1>
