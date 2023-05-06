@@ -6,7 +6,7 @@
 
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seabeach11&label=Profile%20views&color=0e75b6&style=flat" alt="seabeach11" /> </p>
 
