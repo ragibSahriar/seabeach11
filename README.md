@@ -1,7 +1,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif"/>
 </div>
-<h1 align="center">Hi 🙋, I'm seabeach11</h1>
+<h1 align="center">Hi, I'm Ragib Sahriar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
 
@@ -14,15 +14,13 @@
 
 <p align="left"> <a href="https://twitter.com/skseeb00" target="blank"><img src="https://img.shields.io/twitter/follow/skseeb00?logo=twitter&style=for-the-badge" alt="skseeb00" /></a> </p>
 
-- 🔭 I’m currently Learnign on **Programming Hero**
+- 🔭 I’m currently Learning at **Programming Hero**
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **react, java script, firebase, html , tailwind , bootstrap.**
+- 💬 Ask me about **java script,react JS, firebase, html , CSS, tailwind , bootstrap.**
 
-- 📫 How to reach me **https://t.me/Seab3ach**
-
-- ⚡ Fun fact **I am also a fps gamer :D**
+- 📫 My Telegram **https://t.me/Seab3ach**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
