@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seabeach11" alt="seabeach11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/skseeb00" target="blank"><img src="https://img.shields.io/twitter/follow/skseeb00?logo=twitter&style=for-the-badge" alt="skseeb00" /></a> </p>
+
 
 - 🔭 I’m currently Learning at **Programming Hero**
 
