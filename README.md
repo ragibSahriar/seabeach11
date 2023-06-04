@@ -14,13 +14,9 @@
 
 
 
-- 🔭 I’m currently Learning at **Programming Hero**
-
-- 🌱 I’m currently learning **Backend**
+- 🔭 MERN Stack Developer
 
 - 💬 Ask me about **java script,react JS, firebase, html , CSS, tailwind , bootstrap.**
-
-- 📫 My Telegram **https://t.me/Seab3ach**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
